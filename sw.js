@@ -2,8 +2,8 @@ const CACHE_NAME = 'nyc-guide-v1';
 const urlsToCache = [
   '/',
   'index.html',
-  'IMG_20250721_192101_(192_x_192_ピクセル).jpg',
-  'IMG_20250721_192133_(512_x_512_ピクセル).jpg'
+  '/image/IMG_20250721_192101_(192_x_192_ピクセル).jpg',
+  '/image/IMG_20250721_192133_(512_x_512_ピクセル).jpg'
   // 必要に応じて他のアセット（画像、CSSなど）を追加
 ];
 
