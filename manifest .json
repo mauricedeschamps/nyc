@@ -2,7 +2,7 @@
   "name": "NYC Travel Guide",
   "short_name": "NYC Guide",
   "description": "Discover New York City's top attractions",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0c2461",
   "theme_color": "#0c2461",
