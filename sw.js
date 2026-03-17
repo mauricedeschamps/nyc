@@ -1,6 +1,6 @@
 const CACHE_NAME = 'nyc-guide-v1';
 const urlsToCache = [
-  '/',
+  'manifest.json',
   'index.html',
   '/image/IMG_20250721_192101_(192_x_192_ピクセル).jpg',
   '/image/IMG_20250721_192133_(512_x_512_ピクセル).jpg'
